@@ -10,7 +10,6 @@ https://repl.it/join/qwertyuiop-danielgallo
 - **Mr. White** https://repl.it/join/abcdefghij-mrwhite
 - **Mr. Brown** https://repl.it/join/abcdefghij-mrbrown
 
-
 ---
 
 # CPT Info
